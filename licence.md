@@ -1,4 +1,4 @@
-his Pixelarity License Agreement (the "Agreement") is by and between you and Vertex9 LLC. Your right to use any and all templates and other media content (each a "Template") downloaded from Pixelarity (the "Website") is subject to the terms of this Agreement.
+This Pixelarity License Agreement (the "Agreement") is by and between you and Vertex9 LLC. Your right to use any and all templates and other media content (each a "Template") downloaded from Pixelarity (the "Website") is subject to the terms of this Agreement.
 
 PLEASE READ THIS AGREEMENT CAREFULLY. BY OBTAINING OR USING A TEMPLATE FROM PIXELARITY IN ANY MANNER, YOU AGREE TO BE BOUND BY AND COMPLY WITH THE TERMS OF THIS AGREEMENT. IF YOU ARE ACCEPTING THIS AGREEMENT ON BEHALF OF YOUR EMPLOYER, YOU REPRESENT AND WARRANT THAT YOU HAVE FULL LEGAL AUTHORITY TO BIND YOUR EMPLOYER.
 1. Definition
